@@ -11,4 +11,4 @@ public abstract class Personaje {
     public abstract int mostraVida();
     public abstract void mostraPoder();
 }
-;
+
